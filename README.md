@@ -1,4 +1,4 @@
-# img-picker-tool
+# image-auto-cherry-picker
 
 Background:
 
